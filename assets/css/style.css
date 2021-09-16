@@ -64,6 +64,15 @@ footer a {
 section {
     padding: 60px;
 }
+.form-input {
+  border: 1px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 100%;
+  margin-bottom: 15px;
+}
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
