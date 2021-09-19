@@ -1,4 +1,4 @@
-# Run Buddy Application
+# Run Buddy Inc
 this is a basic application 
 explain your application 
 
